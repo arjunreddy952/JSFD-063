@@ -22,3 +22,4 @@ function placeOrder(drinkName) {
         alert(`${drinkName} has been added to your order!`);
     }
 }
+
